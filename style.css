@@ -1,0 +1,36 @@
+/*Smartiphone Portrait*/
+
+body{
+    background-color: #F2F2F2;
+}
+
+/*Smartphone LandScape - Breaking Points*/
+@media (min-width: 576px){
+    body{
+        background-color: #ffff00;
+    }
+}
+
+/*Tablet Portrait - Breaking Points*/
+@media (min-width: 786px){
+    body{
+        background-color: #ff2af4;
+        color: aqua;
+    }
+}
+
+/*Tablet LandScape - Breaking Points*/
+@media (min-width: 992px){
+    body{
+        background-color: #4eff2a;
+        color: rgb(153, 161, 161);
+    }
+}
+
+/*Notebooks/PCs - Breaking Points*/
+@media (min-width: 1200px){
+    body{
+        background-color: #000000;
+        color: #ffffff;
+    }
+}
