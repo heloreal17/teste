@@ -1,11 +1,11 @@
 # Documentação aula - 13/09/2022
 ### Hospedagem, Resposabilidade, Teste
 _____
-### DOCUMENTAÇÃO DIA 13/09/2022:
+### Passo a passo para a revisão de conteúdo
 Começamos criando uma pasta em documentos com o nome: public_html
 Adicionamos o cabeçalho composto por códigos.
 
-SEO 
+`SEO` <br>
 1- Título e Domínio.
 2- Descrição do site "meta:desc" adiciona a descrição. <br>
 3- Heading tags:
